@@ -5,14 +5,14 @@ console.log("ControlFlows.js loadinggggggg");
 
 // If else statement
 
-let age = 21;
+// let age = 21;
 
-if (age >= 21) {
-    console.log("You allow to drink alchol");
-} else {
-    console.log("You dont allow drink alchol");
+// if (age >= 21) {
+//     console.log("You allow to drink alchol");
+// } else {
+//     console.log("You dont allow drink alchol");
     
-}
+// }
 
 console.log("====================================");
 //Geting terminnal input
@@ -108,9 +108,43 @@ console.log("====================================");
 // 2 Looping statement - Loops repeat block of code as long as a condition is true
 // For loops used whene you konw how many times you want to repeat statement
 
-   for(let i = 0; i <= 5; i++){
-        console.log(i);
-   }
+//    for(let i = 0; i <= 5; i++){
+//         console.log(i);
+//    }
+
+//    while loop
+// let i = 0;
+// while (i < 5) {
+//     i++
+//     console.log(i);
+// }
+
+// do...while Loop Executes the block at least once, and then continues as long as the condition is true.
+
+// let i = 0;
+// do {
+//     i++
+//     console.log(i);
+// } while (i <5);
+
+//  Control Flow Keywords
+// break Immediately exits a loop or switch statement
+
+// for(let i = 0; i < 10; i++){
+//         if(i === 5) break;
+//         console.log(i);
+// }
+
+// continue Skips the rest of the current loop iteration and proceeds to the next iteration.
+
+// for(let i = 0; i < 10; i++) {
+//     if(i=== 5) continue;
+//     console.log(i);
+// }
+
+
+
+
 
 
 
